@@ -1,0 +1,17 @@
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\bin\Debug\net6.0-windows\EventHandlerDeneme.exe
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\bin\Debug\net6.0-windows\EventHandlerDeneme.deps.json
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\bin\Debug\net6.0-windows\EventHandlerDeneme.runtimeconfig.json
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\bin\Debug\net6.0-windows\EventHandlerDeneme.dll
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\bin\Debug\net6.0-windows\EventHandlerDeneme.pdb
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\obj\Debug\net6.0-windows\EventHandlerDeneme.csproj.AssemblyReference.cache
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\obj\Debug\net6.0-windows\EventHandlerDeneme.Form1.resources
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\obj\Debug\net6.0-windows\EventHandlerDeneme.csproj.GenerateResource.cache
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\obj\Debug\net6.0-windows\EventHandlerDeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\obj\Debug\net6.0-windows\EventHandlerDeneme.AssemblyInfoInputs.cache
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\obj\Debug\net6.0-windows\EventHandlerDeneme.AssemblyInfo.cs
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\obj\Debug\net6.0-windows\EventHandlerDeneme.csproj.CoreCompileInputs.cache
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\obj\Debug\net6.0-windows\EventHandlerDeneme.dll
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\obj\Debug\net6.0-windows\refint\EventHandlerDeneme.dll
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\obj\Debug\net6.0-windows\EventHandlerDeneme.pdb
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\obj\Debug\net6.0-windows\EventHandlerDeneme.genruntimeconfig.cache
+C:\Users\alide\source\repos\EventHandlerDeneme\EventHandlerDeneme\obj\Debug\net6.0-windows\ref\EventHandlerDeneme.dll
